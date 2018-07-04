@@ -1,1 +1,23 @@
+/*#handsImg {   
+    background-image:url('images/rps.jpg');
+    width: 300px;
+  	height: 100px;
+  	resize: both;
+  	overflow: hidden;
+}
 
+    
+ }
+
+
+
+.space {
+  background-repeat: space;
+}*/
+
+/*.jumbotron {
+    background: #000 url("jumbotron-bg.png");
+	height: 500px;
+	width: auto;
+	margin-top: 5rem;/*
+}
